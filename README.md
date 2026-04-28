@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل نور طريقي
+> في عيوني شوق وحب حقيقي
+> قلبي ينبض واسمك في دمي
+> لا تتركيني وحدي في همي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
